@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web development as well as machine learning.
 - 🌱 I’m currently learning Python as well as few web languages.
 - 💞️ I’m looking to collaborate on github and linkedin as well.
-- 🌟 3 star python coder on hackerrank.
 - 💻 Trying to learn C++.
 
 <!---
