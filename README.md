@@ -3,6 +3,7 @@
 - 🐍 I’m currently learning Python as well as few web languages.
 - 💞️ I’m looking to collaborate on github and linkedin as well.
 - 💻 Trying to learn C++.
+- 🪱 Doing my minor in AI and ML
 
 <!---
 1AMADI/1AMADI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
